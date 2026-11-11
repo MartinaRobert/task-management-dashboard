@@ -334,10 +334,6 @@
       "updatedAt": "2026-11-06T13:06:18.345Z"
     }
   ],
-  "meta": {
-    "totalCount": 17,
-    "lastUpdated": "2026-11-11T13:06:18.345Z"
-  },
   "statistics": [
     {
       "id": "stat-001",
@@ -379,6 +375,5 @@
       "changeType": "negative",
       "color": "#D32F2F"
     }
-  ],
-  "lastUpdated": "2026-11-11T13:06:18.343Z"
+  ]
 }

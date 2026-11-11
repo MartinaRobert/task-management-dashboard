@@ -13,9 +13,7 @@ const statisticsData = JSON.parse(
 
 const database = {
     tasks: tasksData.tasks,
-    meta: tasksData.meta,
     statistics: statisticsData.statistics,
-    lastUpdated: statisticsData.lastUpdated
 };
 
 fs.writeFileSync(
